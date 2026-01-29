@@ -28,15 +28,14 @@ Esto hace el código:
 
 ## 📁 Estructura del proyecto
 
-eda_project/
-|
-|-- eda_utils/
-|   |-- __init__.py
-|   |-- stats.py
-|   |-- plots.py
-|
-|-- main.py
-`-- requirements.txt
+- eda_project/
+  - eda_utils/
+    - __init__.py
+    - stats.py
+    - plots.py
+  - main.py
+  - requirements.txt
+
 
 
 ### ¿Qué es cada cosa?
@@ -119,6 +118,7 @@ conda activate eda_env
 python -m pip install -r requirements.txt
 python main.py
 ```
+
 
 
 
