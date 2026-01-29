@@ -31,9 +31,9 @@ Esto hace el código:
 eda_project/
 │
 ├── eda_utils/
-│ ├── init.py
-│ ├── stats.py
-│ └── plots.py
+│   ├── __init__.py
+│   ├── stats.py
+│   └── plots.py
 │
 ├── main.py
 └── requirements.txt
@@ -119,4 +119,5 @@ conda activate eda_env
 python -m pip install -r requirements.txt
 python main.py
 ```
+
 
