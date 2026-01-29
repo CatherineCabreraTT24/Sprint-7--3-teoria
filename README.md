@@ -102,6 +102,7 @@ Incluye esta estructura:
 ```python
 if __name__ == "__main__":
     main()
+```
 
 Esto asegura que el código:
 
@@ -118,6 +119,7 @@ conda activate eda_env
 python -m pip install -r requirements.txt
 python main.py
 ```
+
 
 
 
